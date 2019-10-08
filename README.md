@@ -18,6 +18,7 @@ This is if you are unfamiliar with bash coding and markdown files.
 1. Your manuscript associated with your data.
 2. General guidlines to HAPHPIPE [here](https://github.com/gwcbi/haphpipe).
 3. Use [bedtools](https://bedtools.readthedocs.io/en/latest/content/tools/annotate.html) as your inspiration for describing the modules.
+4. If you are running on Colonial One, you need to request an interactive node. Go [here](https://github.com/gwcbi/HPC/blob/master/interactive_jobs.md) to learn how to run interactive jobs.
 
 
 ## Directions 
