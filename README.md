@@ -20,6 +20,25 @@ This is if you are unfamiliar with bash coding and markdown files.
 3. Use [bedtools](https://bedtools.readthedocs.io/en/latest/content/tools/annotate.html) as your inspiration for describing the modules.
 
 
+## Directions 
+Directions from Keylie and Maggie to help guide you:
+
+It's mostly just an explanation of what you did + your notes on how to get it to work. Write down every question you have or google - nothing is "stupid." Also, try googling your question first, then reaching out to us or bringing it to haphpipe hours. If google helped you - document the link or sources that helped answer your question. Please read your associated paper, give me a paragraph about their study and a paragraph about their NGS technique.
+
+Emails: kmgibson@gwu.edu and steinerm@gwu.edu 
+
+HAPHPIPE Hours: Tuesday and Thursday [TBD - just email for the moment]
+
+1. Please start with completing "Basics," "Questions to answer in your own words," "Installing HAPHPIPE," and "Activating HAPHPIPE."
+2. Once [1] is completed, please complete HAPHPIPE suite. Figure out what each module does and what each stage is meant to do.
+3. Once you've familiarized yourself with HAPHPIPE a bit, I will give you your data to start messing with! 
+
+GOAL: Create a Bioinformatic journal Application Note for class and use the User Guide as a supplemental material for that paper. 
+
+---
+
+
+
 ## HIV
 
 **Pipelines to compare:** <br>
