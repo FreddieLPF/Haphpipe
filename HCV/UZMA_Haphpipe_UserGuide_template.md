@@ -20,7 +20,7 @@ Chronic hepatitis C virus (HCV) infection is the most common cause of end-stage 
 ## Questions to answer in your own words
 Do not feel like you need a "perfect answer" - that is not what we're going for. Explain things in your own words and as if you're explaining them to your peers or another undergrad you "tutor". We're trying to make this approachable not perfect, scientific explainations. Also, you don't have to answer these *prior* to starting, just eventually or throughout your work on this.
 
-1. What is a directory structure? Please explain and create a diagram / picture to accompany your explaination. A directory structure is a file system used to organize files and folders in a hierarchical manner. The most common type is a tree-structured directory. 
+1. What is a directory structure? Please explain and create a diagram / picture to accompany your explaination. A directory structure is a filesystem used to organize directories (folders) and files in a hierarchical manner. The most common type is a tree-structured directory. 
 2. What is the difference between next-generation sequencing and Sanger sequencing? The two are very similar except that NGS can sequence multiple DNA fragments at once. Additionally, NGS is more sensitive to lower volumes of DNA
 3. What is the difference between the two pipelines, hp01 and hp02? Explain what each step of the pipelines accomplishes and why that step is necessary.
 4. Did you need to learn how to bash script for this? What do you feel like you weren't prepared for after reading the introduction part we provided you with?
