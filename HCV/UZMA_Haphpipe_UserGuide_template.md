@@ -5,9 +5,9 @@
 
 ## Basics:
 
-*Made by:*
+*Made by:* Uzma Rentia
 
-*My virus is:*
+*My virus is:* HCV
 
 *My links are:*
 
