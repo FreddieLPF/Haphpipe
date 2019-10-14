@@ -13,6 +13,7 @@
 
 *Associated paper pararaphs.*
 *Paragraph about study:*
+Chronic hepatitis C virus (HCV) infection is the most common cause of end-stage liver disease leading to liver transplantation in the country, with recurrent HCV disease being more aggressive during the course of immunosuppression following transplants. MBL-HCV1, a monoclonal antibody that binds to the highly-conserved epitope of the HCV E2 envelope glycoprotein, has been show to suppress viral load in chimpanzee models. A viral load uptick following treatment is concurrent with the emergence of antibody-resistance virus and is most consistent with amino acid alterations at positions and 417 (N417S) within the MBL-HCV1 epitope. This study aimed to track the development of post-transplant HCV variants with and without MBL-HCV1. As in the chimp studies, it found that MBL-HCV1 was successful until the development of the aforementioned variants, which was confirmed by Sanger sequencing. Furthermore, high-throughput sequencing sensitive enough to detect MAb-resistance associated variants before transplantation confirmed that the resistant variants of note were not present prior to treatment. 
 
 *Paragraph abut NGS technique and data:*
 
