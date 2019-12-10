@@ -3,18 +3,19 @@
 
 ### Basics:
 
-*_Made by: Freddie Pengfei Li_*
+*Made by: Freddie Pengfei Li*
 
-*_My virus is: HIV(human immunodeficiency viruses)_*
+*My virus is: HIV(human immunodeficiency viruses)*
 
 *My links are: [MyGithub](https://github.com/FreddieLPF/haphpipe_bioinformaticsclass)*
 
-*_Associated paper paragraphs_：*
-
-*_Paragraph about study:_*
-
-*_Paragraph abut NGS technique and data: 
-Advantages of NGS include:  Higher sensitivity to detect low-frequency variants1,2 Faster turnaround time for high sample volumes3 Comprehensive genomic coverage Lower limit of detection4,5 Higher throughput with sample multiplexing Ability to sequence hundreds to thousands of genes or gene regions simultaneously_*
+*Paragraph abut NGS technique and data: 
+Advantages of NGS include: 
+1. Higher sensitivity to detect low-frequency variants.
+2. Faster turnaround time for high sample volumes.
+3. Comprehensive genomic coverage Lower limit of detection.
+4. Higher throughput with sample multiplexing.
+5. Ability to sequence hundreds to thousands of genes or gene regions simultaneously*
 
   
 
@@ -31,7 +32,7 @@ We all have the rough experience where after a few months, we may simply not rem
 So maintaining a well-structured directory is essential to both software development and bioinformatics.
 
 
-  **2. What is the difference between next-generation sequencing and Sanger sequencing?**
+ **2. What is the difference between next-generation sequencing and Sanger sequencing?**
   
 The critical difference between Sanger sequencing and NGS is sequencing volume. While the Sanger method only sequences a single DNA fragment at a time, NGS is massively parallel, sequencing millions of fragments simultaneously per run. This high-throughput process translates into sequencing hundreds to thousands of genes at one time. NGS also offers greater discovery power to detect novel or rare variants with deep sequencing.
 
@@ -456,7 +457,13 @@ haphpipe annotate_from_ref airwise_aligned.json --ref_gtf referenceSeq.gtf
 
 ## Example usage
 
-Your virus with both pipelines. Document all code and explanation.
+```
+haphpipe_assemble_01 read1.fq.gz read2.fq.gz ../refs/HIV_B.K03455.HXB2.fasta ../refs/HIV_B.K03455.HXB2.gtf sampleID
+```
+
+```
+haphpipe_assemble_02 read1.fq.gz read2.fq.gz ../refs/HIV_B.K03455.HXB2.amplicons.fasta sampleID
+```
 
   
 
