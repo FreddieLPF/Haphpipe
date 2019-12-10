@@ -9,13 +9,15 @@
 
 *My links are: [MyGithub](https://github.com/FreddieLPF/haphpipe_bioinformaticsclass)*
 
-*Paragraph abut NGS technique and data: 
+*
+Paragraph abut NGS technique and data: 
 Advantages of NGS include: 
 1. Higher sensitivity to detect low-frequency variants.
 2. Faster turnaround time for high sample volumes.
 3. Comprehensive genomic coverage Lower limit of detection.
 4. Higher throughput with sample multiplexing.
-5. Ability to sequence hundreds to thousands of genes or gene regions simultaneously*
+5. Ability to sequence hundreds to thousands of genes or gene regions simultaneously
+*
 
   
 
