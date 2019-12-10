@@ -456,7 +456,17 @@ haphpipe annotate_from_ref airwise_aligned.json --ref_gtf referenceSeq.gtf
 
 ## Example usage
 
-Your virus with both pipelines. Document all code and explanation.
+Hp_assemble_01
+```
+haphpipe_assemble_01 read1.fq.gz read2.fq.gz HIV_B.K03455.HXB2.fasta HIV_B.K03455.HXB2.gtf sampleID 
+```
+hp_assemble_02  
+```
+
+haphpipe_assemble_02 read1.fq.gz read2.fq.gz HIV_B.K03455.HXB2.amplicons.fasta sampleID
+```
+
+
 
   
 
